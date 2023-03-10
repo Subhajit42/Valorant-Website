@@ -3,6 +3,8 @@ import React from 'react'
 export default function Socials() {
   return (
     <>
+    <hr></hr>
+
     <div className="d-flex justify-content-center">
     <div className="btn-group" role="group" aria-label="Basic example">
         <button type="button" className="btn btn-primary">
@@ -41,6 +43,9 @@ export default function Socials() {
 
         </div>
         </div>
+
+        <br></br>
+        
     </>
   )
 }

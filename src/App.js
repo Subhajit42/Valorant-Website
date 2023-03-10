@@ -9,6 +9,7 @@ import NightMode from './Components/nightMode'
 //end section for site
 //socials
 import Socials from './Components/Socials';
+import Trademark from './Components/Trademark';
 //info
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
 
   <NightMode/>
   <Socials/>
+  <Trademark/>
   </>
   );
 }
